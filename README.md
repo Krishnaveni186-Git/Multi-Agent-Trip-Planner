@@ -33,8 +33,6 @@ The application is developed in **VS Code** and presented through an interactive
 - **Interactive Streamlit UI:** Provides an accessible interface for trip-planning interactions.
 - **Modular Development:** Organizes the application into components for easier maintenance and future enhancements.
 
-*Note: Confirm which validation rules and approval actions are implemented in your current version before describing them as production-ready capabilities.*
-
 ## 🏗️ System Architecture
 
 The application follows a multi-agent workflow in which the user's requirements are processed, delegated to specialized agents, validated, and presented for human review.
