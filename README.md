@@ -121,6 +121,6 @@ the final trip itinerary.
 **Project Focus:** Agentic AI | Multi-Agent Systems | LLM Guardrails | Human-in-the-Loop | Responsible AI | Streamlit
 
 
-<img width="1228" height="819" alt="Trip Planner Workflow" src="https://github.com/user-attachments/assets/426af478-8113-42de-8683-5b66ebbd9349" />
+img width="1228" height="819" alt="Trip Planner Workflow" src="https://github.com/user-attachments/assets/426af478-8113-42de-8683-5b66ebbd9349"
 
 
