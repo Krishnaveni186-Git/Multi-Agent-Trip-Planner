@@ -118,7 +118,9 @@ The workflow illustrates how user preferences pass through input guardrails,
 specialized AI agents, output validation, and human review before producing
 the final trip itinerary.
 
-<img width="1228" height="819" alt="Trip Planner Workflow" src="https://github.com/user-attachments/assets/22e336ab-a5cb-40c7-829c-3a1cc6ca07db" />
-
-
 **Project Focus:** Agentic AI | Multi-Agent Systems | LLM Guardrails | Human-in-the-Loop | Responsible AI | Streamlit
+
+
+<img width="1228" height="819" alt="Trip Planner Workflow" src="https://github.com/user-attachments/assets/426af478-8113-42de-8683-5b66ebbd9349" />
+
+
